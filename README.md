@@ -1,2 +1,2 @@
-# anaortizsol..github.io
+# anaortizsol.github.io
 Trabajo en clase
